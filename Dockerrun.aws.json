@@ -1,0 +1,12 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name":  "465242562870.dkr.ecr.ap-northeast-2.amazonaws.com/raccoon/ohgiraffer:springback",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": 5000
+    }
+  ]
+}
