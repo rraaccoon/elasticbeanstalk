@@ -16,7 +16,7 @@ public class MenuController {
 
     @GetMapping("/health")
     public String healthCheck() {
-        return "cloud health check test!!";
+        return "cloud health check test2!!";
     }
 
     @GetMapping("/menus/{menuCode}")
